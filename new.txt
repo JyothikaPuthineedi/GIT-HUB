@@ -2,8 +2,6 @@ welcome to github
 
 jyothikaaa
 lets learn how to use github with vscode
-<<<<<<< HEAD
+HEAD
 lets see
-=======
-lets see
->>>>>>> 79c9597d7f2ed407233300ef819882917d550a10
+
