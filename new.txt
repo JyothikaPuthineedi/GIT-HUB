@@ -2,4 +2,4 @@ welcome to github
 
 jyothikaaa
 lets learn how to use github with vscode
-lets see;
+lets see
